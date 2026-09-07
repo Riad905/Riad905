@@ -1,16 +1,21 @@
-## Hi there 👋
+# Riad Mekki
 
-<!--
-**Riad905/Riad905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate progressing to an MSc Data Science with Placement Year
+at the University of Greenwich.
 
-Here are some ideas to get you started:
+I build reproducible data and machine-learning systems with Python and SQL, with
+current interests in data engineering, explainable ML and financial/risk analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### TransactionShield
+Explainable transaction-risk system focused on reproducible data engineering,
+leakage-safe feature design and temporal evaluation.
+
+### Explainable Misinformation Classification
+NLP project comparing TF-IDF + Logistic Regression, DistilBERT and hybrid late
+fusion, with LIME/SHAP explanations and a local Streamlit interface.
+
+## Core tools
+
+Python · SQL · pandas · scikit-learn · Git · Linux · Streamlit
